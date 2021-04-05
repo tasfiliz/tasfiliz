@@ -6,5 +6,5 @@
 - 🎓 Graduated from Istanbul Technical University
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/tasfiliz"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/berat-tasfiliz"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
