@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently working at Softtech as an iOS Developer.
+- 👨‍💻 I’m currently working at Pixery as an iOS Developer.
 - 🌱 I'm currently learning Combine, SwiftUI and following the open source community.
-- 💬 Ask me about Swift or cultures of companies that I've worked(ING Turkey, Softtech).
+- 💬 Ask me about Swift or cultures of companies that I've worked(ING Turkey, Softtech, Pixery).
 - 🎓 Graduated from Istanbul Technical University
 
 <p align="center">
